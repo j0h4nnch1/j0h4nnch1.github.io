@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/wild-flame)
+<!-- [![](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/wild-flame) -->
 
 # jekyll-simple
 
@@ -17,7 +17,7 @@ iOS 9 has pulished some new fonts in Chinese and I decided to make one theme tha
 
 So mobile goes first, then the macOS.
 
-## ^-^
+<!-- ## ^-^
 
 You can click the button [Say Thanks!](https://saythanks.io/to/wild-flame) at the first of README if you use/like my project. :D
 
@@ -32,5 +32,5 @@ Thanks you guys, I got a lot of thanks from people.
 
 - And more
 
-![image](https://user-images.githubusercontent.com/4491950/53502875-e1b46e00-3ae9-11e9-97e4-d70d038a36e9.png)
+![image](https://user-images.githubusercontent.com/4491950/53502875-e1b46e00-3ae9-11e9-97e4-d70d038a36e9.png) -->
 # notebook
