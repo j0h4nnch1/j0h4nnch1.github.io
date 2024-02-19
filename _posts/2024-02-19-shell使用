@@ -1,0 +1,14 @@
+---
+layout: post
+title:  shell使用
+category: 工具使用 
+description: 工具使用
+---
+这东西不打算长篇大论，写一个大的shell的机会很少，只是总结一下碰到的一些问题
+
+<!--description-->
+# 查看当前shell是csh还是bash
+这两个的命令有很大不同，可以用这个命令来查看当前是那种shell
+```bash
+echo $0
+```
