@@ -1,36 +1,35 @@
-<!-- [![](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/wild-flame) -->
+# NexT
 
-# jekyll-simple
+> 精于心，简于形
 
-## simple
-simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
+NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。<!--commit: f951075d9b739d26b42472431995fa68d08796aa-->
 
-Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
+<a href="http://simpleyyt.github.io/jekyll-theme-next/" target="_blank">在线预览 Preview</a> | <a href="http://simpleyyt.com" target="_blank">Yitao's Blog</a> | <a href="http://theme-next.simpleyyt.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
 
-Supposedly, this could work with Japanese as well but never had a chance to try.
+[![Join the chat at https://gitter.im/simpleyyt/jekyll-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jekyll-theme-next/lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-## Story behind this theme
+![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
 
-It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
 
-iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
+## 浏览器支持 Browser support
 
-So mobile goes first, then the macOS.
+![Browser support](http://iissnan.com/nexus/next/browser-support.png)
 
-<!-- ## ^-^
 
-You can click the button [Say Thanks!](https://saythanks.io/to/wild-flame) at the first of README if you use/like my project. :D
+## 贡献 Contributing
 
-Thanks you guys, I got a lot of thanks from people.
+欢迎提交问题与需求，修复代码。
 
-- [ryan](https://saythanks.io/note/a9a342ba-e9aa-4707-b169-05b6ae49757d)
-- [Daniel Moore](https://saythanks.io/note/da81706c-8884-4dbc-89b0-eed242ac3b19) and feel free to visit his work [border quiz](http://danielmoore.us/borders-quiz?singapore-planning-areas)
-- [David Laing](https://saythanks.io/note/fb5d24eb-3be8-4f92-842b-c6dd7ce4c239)
-- [Meg](https://saythanks.io/note/6d56e228-e17c-4641-9524-9f9fd6205068)
 
-![image](https://user-images.githubusercontent.com/4491950/53502929-0d375880-3aea-11e9-9ce1-13eba2ec4643.png)
+## 开发 Development
 
-- And more
+NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
 
-![image](https://user-images.githubusercontent.com/4491950/53502875-e1b46e00-3ae9-11e9-97e4-d70d038a36e9.png) -->
-# notebook
+NexT is built for easily use with elegant appearance. First things first, always keep things simple.
+
+
+## 捐赠
+
+支付宝捐赠链接还是要有的，万一真的有人捐呢。
+
+![支付宝扫码捐赠](http://7lryc0.com1.z0.glb.clouddn.com/a6x049034plyvjm1rvn4h28%20%281%29.png)
